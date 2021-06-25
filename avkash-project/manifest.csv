@@ -1,0 +1,6 @@
+Flight No,Origin,Destination,Date,Time,First Name,Last Name,Sex, SeatNo, DateofBirth, DoBValidation, PersonValidation, LuggageValidation, NameValidation, BoardingPassValidation
+UA-123,San Francisco, New York, 10 July 2021, 10:00, Ima, Cardholder, F,10A, 31 August 1977,False,False,False,False,False
+UA-123,San Francisco, New York, 10 July 2021, 10:00, Judy Jane, Doe, F,10B, 1 January 1997,False,False,False,False,False
+UA-123,San Francisco, New York, 10 July 2021, 10:00, Jelani, Sample, M,15B, 1 January 1974,False,False,False,False,False
+
+
